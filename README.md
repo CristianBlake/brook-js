@@ -24,4 +24,4 @@ npm run start
 ## Packages
 * [DiscordJS](https://discord.js.org/)
 * [Discord Player](https://discord-player.js.org/)
-* [dotenv](https://discord.js.org/)
+* [dotenv](https://www.dotenv.org/)
